@@ -1,0 +1,11 @@
+dim_album_id,album_id,album_name,main_artist,music_genre,release_year,dbt_updated_at,dbt_valid_from,dbt_valid_to
+1,1,Future Nostalgia,Dua Lipa,Pop,2019,2025-03-22 10:42:52+00,2025-03-22 10:42:52+00,
+2,2,Random Access Memories,Daft Punk,Alternative,2012,2025-03-22 10:42:52+00,2025-03-22 10:42:52+00,
+3,3,25,Adele,Alternative,2017,2025-03-22 10:42:52+00,2025-03-22 10:42:52+00,
+4,4,Divide,Ed Sheeran,R&B,2006,2025-03-22 10:42:52+00,2025-03-22 10:42:52+00,
+5,5,Thriller,Michael Jackson,R&B,2007,2025-03-22 10:42:52+00,2025-03-22 10:42:52+00,
+6,6,Back in Black,AC/DC,Electronic,2002,2025-03-22 10:42:52+00,2025-03-22 10:42:52+00,
+7,7,The Fame,Lady Gaga,Electronic,2018,2025-03-22 10:42:52+00,2025-03-22 10:42:52+00,
+8,8,After Hours,The Weeknd,Rock,2010,2025-03-22 10:42:52+00,2025-03-22 10:42:52+00,
+9,9,1989,Taylor Swift,Rock,2013,2025-03-22 10:42:52+00,2025-03-22 10:42:52+00,
+10,10,Born This Way,Lady Gaga,Alternative,2009,2025-03-22 10:42:52+00,2025-03-22 10:42:52+00,

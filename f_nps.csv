@@ -1,0 +1,1470 @@
+f_nps_id,dim_customer_id,dim_date_id,nps_score,feedback_comment,survey_channel
+1,95,20191007,0,App crashes,Web
+2,81,20190223,7,App crashes,Phone
+3,52,20191011,2,App crashes,Web
+4,43,20191020,8,Interface confusing,Email
+5,69,20191230,8,Fast & smooth,Phone
+6,62,20191124,5,App crashes,App
+7,58,20190523,0,App crashes,Web
+8,24,20191229,6,Service is slow,App
+9,43,20191216,1,Service is slow,Phone
+10,60,20191230,9,Fast & smooth,App
+11,71,20191117,4,,Phone
+12,98,20190524,4,Interface confusing,Web
+13,84,20191209,4,Fast & smooth,App
+14,83,20191122,0,Interface confusing,Phone
+15,33,20191127,4,Interface confusing,Phone
+16,67,20191206,4,Too many ads,App
+17,47,20190801,0,Love the app,Email
+18,31,20191126,8,,Email
+19,74,20191225,2,Service is slow,Phone
+20,17,20191216,5,Great experience,App
+21,9,20190908,1,App crashes,App
+22,69,20191220,0,Interface confusing,App
+23,98,20190716,6,Service is slow,Web
+24,6,20190824,2,Too many ads,Web
+25,62,20191210,2,Service is slow,App
+26,71,20191215,4,Interface confusing,Phone
+27,48,20191223,2,App crashes,App
+28,67,20190920,1,Would recommend,App
+29,20,20191012,1,Would recommend,Phone
+30,62,20191125,2,Too many ads,Web
+31,85,20191102,2,Fast & smooth,Email
+32,75,20190816,4,Great experience,Email
+33,32,20190807,0,Love the app,Phone
+34,61,20191230,1,Would recommend,App
+35,33,20191126,1,Too many ads,Phone
+36,97,20191225,4,Interface confusing,Phone
+37,52,20191223,4,Love the app,Email
+38,34,20191221,0,Would recommend,App
+39,50,20191120,9,Great experience,Email
+40,19,20191003,1,Interface confusing,Web
+41,87,20190828,10,,Web
+42,37,20191223,4,Fast & smooth,App
+43,86,20191217,2,Would recommend,Web
+44,56,20190617,5,,Email
+45,77,20191225,4,Great experience,Web
+46,48,20190830,8,Fast & smooth,Phone
+47,26,20190602,10,Too many ads,Phone
+48,31,20191112,3,,App
+49,36,20191229,5,Great experience,App
+50,67,20191129,2,Fast & smooth,Web
+51,4,20191022,0,Would recommend,Email
+52,34,20190913,9,Great experience,Phone
+53,87,20191030,3,,App
+54,67,20191026,5,Fast & smooth,Web
+55,20,20191220,0,App crashes,Web
+56,4,20191005,9,App crashes,Web
+57,23,20191001,9,Interface confusing,App
+58,77,20191228,1,Would recommend,App
+59,53,20191012,6,,Web
+60,73,20190901,9,,Email
+61,57,20190623,4,Service is slow,Email
+62,63,20190802,0,,Email
+63,53,20190823,7,Interface confusing,Email
+64,27,20191102,1,,Phone
+65,78,20191203,2,,Web
+66,68,20191122,10,Interface confusing,Phone
+67,31,20191024,0,Would recommend,Email
+68,65,20191220,3,Love the app,Web
+69,33,20191205,0,Fast & smooth,Email
+70,7,20191130,7,Would recommend,App
+71,79,20190419,6,Fast & smooth,Phone
+72,10,20191231,8,Fast & smooth,Phone
+73,62,20191229,0,App crashes,Web
+74,77,20191224,1,Too many ads,App
+75,56,20191227,0,,Web
+76,22,20191125,5,,Phone
+77,12,20190911,1,App crashes,Email
+78,34,20191231,6,App crashes,Web
+79,6,20190813,2,Would recommend,Email
+80,37,20191021,4,App crashes,Phone
+81,44,20190321,5,Interface confusing,Email
+82,12,20190721,3,App crashes,Email
+83,35,20191202,10,Would recommend,Email
+84,80,20191226,0,,Phone
+85,99,20190203,3,Interface confusing,Phone
+86,77,20191231,0,Interface confusing,Email
+87,63,20191229,2,,Email
+88,41,20191116,1,,App
+89,3,20190709,3,,Phone
+90,97,20191214,10,App crashes,App
+91,38,20191209,1,Service is slow,Phone
+92,71,20191210,0,App crashes,Email
+93,12,20190619,2,Too many ads,Email
+94,41,20190919,8,,Phone
+95,33,20191021,7,Would recommend,Web
+96,45,20191223,0,,Email
+97,58,20190817,3,Too many ads,App
+98,52,20191224,3,Service is slow,Phone
+99,67,20190605,0,Love the app,Phone
+100,81,20190313,8,Great experience,Email
+101,79,20191203,3,Fast & smooth,App
+102,21,20191229,2,Too many ads,App
+103,94,20191228,6,Love the app,App
+104,17,20191207,4,Love the app,Email
+105,33,20191206,1,,Email
+106,7,20191221,0,Love the app,App
+107,38,20191202,7,Would recommend,App
+108,49,20190603,3,Service is slow,Web
+109,69,20191227,9,Fast & smooth,Email
+110,51,20191224,1,,App
+111,93,20191120,5,Great experience,Web
+112,92,20191009,5,Great experience,Web
+113,29,20191030,2,Love the app,App
+114,8,20191112,4,,Web
+115,85,20191123,9,Too many ads,Phone
+116,40,20191228,1,,Phone
+117,69,20191217,0,Interface confusing,App
+118,187,20201124,1,,Web
+119,140,20200920,0,Great experience,Email
+120,86,20201203,0,Service is slow,App
+121,154,20200522,1,App crashes,Web
+122,95,20200530,8,Interface confusing,Phone
+123,17,20200723,5,,Phone
+124,175,20200129,6,Interface confusing,App
+125,71,20200225,10,,Phone
+126,109,20201107,0,App crashes,App
+127,178,20201214,0,,Email
+128,24,20200928,1,Too many ads,Phone
+129,9,20200601,7,Service is slow,Email
+130,126,20200611,1,App crashes,Phone
+131,75,20200822,5,Interface confusing,Web
+132,112,20200803,3,Great experience,App
+133,87,20200705,8,Too many ads,App
+134,70,20200830,2,Fast & smooth,Web
+135,33,20200213,6,,Web
+136,75,20200617,5,,Phone
+137,163,20200324,2,Service is slow,Email
+138,142,20201119,3,Love the app,Phone
+139,163,20200601,2,,Email
+140,17,20200407,0,Too many ads,App
+141,177,20201010,8,,Phone
+142,71,20201122,1,Great experience,Phone
+143,2,20200713,1,Too many ads,Web
+144,72,20200717,1,Interface confusing,Email
+145,49,20201111,1,Fast & smooth,Email
+146,22,20200429,1,,Web
+147,5,20200326,7,,Web
+148,139,20201207,10,Fast & smooth,Web
+149,92,20201111,0,Would recommend,Email
+150,132,20200530,5,Great experience,Web
+151,100,20200119,0,,Email
+152,92,20200213,8,Too many ads,Phone
+153,143,20200928,8,Love the app,Email
+154,91,20200809,4,,Web
+155,104,20200615,4,Great experience,Email
+156,132,20201117,1,App crashes,Web
+157,140,20200909,7,Great experience,Email
+158,98,20201106,0,App crashes,Web
+159,32,20200125,3,,Web
+160,70,20201211,7,App crashes,Email
+161,115,20201028,0,,Email
+162,103,20201111,7,,App
+163,133,20201221,4,Interface confusing,App
+164,59,20200114,4,Would recommend,App
+165,11,20201108,4,Fast & smooth,Email
+166,22,20200908,9,App crashes,App
+167,27,20201009,9,Interface confusing,Web
+168,149,20201111,7,App crashes,App
+169,21,20200701,7,Interface confusing,App
+170,85,20200926,3,Service is slow,Web
+171,185,20200823,3,Love the app,Phone
+172,126,20200629,2,Too many ads,Web
+173,108,20201207,7,Great experience,App
+174,80,20200813,2,Love the app,Email
+175,168,20201213,2,Too many ads,Email
+176,54,20200730,0,Love the app,App
+177,143,20201014,8,Interface confusing,Web
+178,181,20200901,0,Too many ads,App
+179,95,20200630,0,Fast & smooth,Web
+180,63,20200511,0,Would recommend,Web
+181,140,20201220,0,,Web
+182,186,20201221,1,Fast & smooth,App
+183,76,20200422,0,Great experience,App
+184,44,20200908,2,Love the app,Phone
+185,60,20200323,2,Would recommend,App
+186,37,20200712,0,Great experience,Web
+187,164,20200927,1,,Phone
+188,47,20201217,2,Fast & smooth,App
+189,120,20201221,6,Fast & smooth,App
+190,98,20200723,5,Would recommend,Email
+191,64,20200409,0,Interface confusing,Email
+192,129,20200624,1,Fast & smooth,Phone
+193,150,20200917,0,Would recommend,Phone
+194,69,20200917,7,,Phone
+195,94,20201205,1,Service is slow,Phone
+196,119,20201230,3,,Email
+197,125,20200814,0,Too many ads,Phone
+198,119,20201231,1,Interface confusing,Email
+199,95,20200624,7,,Web
+200,33,20201208,7,Would recommend,Phone
+201,76,20200527,7,Service is slow,Phone
+202,52,20201120,0,Would recommend,Phone
+203,26,20200609,0,App crashes,Email
+204,60,20201028,9,App crashes,Email
+205,99,20201104,8,Service is slow,Phone
+206,173,20201126,1,Would recommend,Phone
+207,64,20200319,4,Great experience,Phone
+208,188,20201201,10,App crashes,Web
+209,26,20200612,8,Love the app,App
+210,95,20200812,0,Service is slow,Email
+211,40,20200218,5,Service is slow,Phone
+212,131,20201115,4,,Email
+213,158,20201231,1,Would recommend,Email
+214,31,20200715,2,Great experience,Email
+215,113,20201228,7,App crashes,Email
+216,128,20201215,0,,Web
+217,106,20201126,8,Fast & smooth,App
+218,29,20200328,2,Fast & smooth,Web
+219,154,20200924,5,Interface confusing,Web
+220,39,20200121,4,Would recommend,Web
+221,5,20201101,9,Fast & smooth,Phone
+222,168,20201222,3,App crashes,Web
+223,67,20200609,7,App crashes,Email
+224,101,20200907,0,Too many ads,Email
+225,76,20200726,3,,Email
+226,67,20200703,5,Too many ads,App
+227,148,20200929,0,Fast & smooth,Web
+228,7,20201126,1,,Email
+229,106,20200930,0,App crashes,Email
+230,165,20201214,3,,Email
+231,151,20200715,4,App crashes,App
+232,16,20200302,8,Would recommend,Phone
+233,136,20201108,3,Too many ads,App
+234,96,20200108,0,Love the app,Web
+235,44,20200206,0,Great experience,Email
+236,65,20200510,10,Service is slow,App
+237,166,20200922,3,App crashes,Phone
+238,102,20200419,3,Service is slow,Phone
+239,175,20201109,0,,Email
+240,40,20200615,6,Too many ads,Email
+241,135,20200805,0,Would recommend,Phone
+242,48,20200518,8,App crashes,Web
+243,163,20200322,4,,Phone
+244,150,20201228,6,Love the app,App
+245,45,20200424,7,,Email
+246,177,20200811,2,Love the app,App
+247,187,20201204,4,Fast & smooth,Phone
+248,138,20200728,1,Would recommend,Phone
+249,167,20201119,1,Love the app,Email
+250,141,20200802,6,Too many ads,Email
+251,166,20201127,2,,Phone
+252,99,20200815,3,,Email
+253,150,20200329,10,Would recommend,Phone
+254,9,20200925,8,Interface confusing,App
+255,54,20200213,8,Interface confusing,Web
+256,81,20200725,4,,Email
+257,10,20200130,2,Service is slow,Web
+258,149,20201206,4,Fast & smooth,App
+259,110,20201225,3,Would recommend,Email
+260,189,20200923,9,Great experience,App
+261,97,20200414,4,Interface confusing,App
+262,189,20200913,8,App crashes,App
+263,140,20201125,2,Love the app,App
+264,107,20200512,0,Interface confusing,Web
+265,162,20200727,3,,Phone
+266,88,20200215,5,Great experience,Phone
+267,182,20201216,10,,App
+268,126,20200511,4,Service is slow,App
+269,108,20201222,0,Service is slow,Email
+270,85,20200717,1,App crashes,App
+271,7,20201114,1,Would recommend,Web
+272,141,20201208,3,Fast & smooth,Phone
+273,144,20200910,9,App crashes,App
+274,84,20200711,0,Too many ads,Phone
+275,125,20201107,0,Too many ads,Phone
+276,140,20200921,3,Service is slow,Email
+277,26,20200415,0,Love the app,Web
+278,183,20200223,1,Would recommend,App
+279,123,20201220,0,Fast & smooth,Phone
+280,98,20200118,1,Too many ads,Web
+281,26,20201230,5,Too many ads,App
+282,74,20200617,2,Would recommend,Phone
+283,161,20201018,1,Service is slow,App
+284,169,20201025,10,,App
+285,88,20200525,1,Great experience,Email
+286,181,20200908,6,Too many ads,App
+287,33,20200326,6,,App
+288,154,20211227,8,,App
+289,163,20210903,7,,Email
+290,84,20210412,1,Too many ads,Web
+291,103,20210524,0,Would recommend,Email
+292,261,20210325,1,Too many ads,Web
+293,232,20211226,7,Great experience,Web
+294,247,20211010,2,Interface confusing,Web
+295,107,20211027,1,Love the app,Email
+296,94,20210913,2,Service is slow,Phone
+297,141,20211117,9,Great experience,Phone
+298,51,20211112,1,Fast & smooth,Phone
+299,119,20210714,2,App crashes,Web
+300,145,20210505,4,Interface confusing,Email
+301,179,20210708,0,Interface confusing,App
+302,239,20210930,3,Great experience,Web
+303,8,20210702,3,Great experience,Email
+304,184,20210323,5,App crashes,Email
+305,80,20210408,4,Fast & smooth,App
+306,40,20210926,4,Love the app,Phone
+307,90,20210915,4,Love the app,App
+308,226,20211008,9,Interface confusing,App
+309,128,20210819,9,Would recommend,App
+310,11,20210309,9,Fast & smooth,Phone
+311,41,20210730,2,,App
+312,163,20210723,1,Would recommend,Web
+313,119,20210131,9,Service is slow,Email
+314,235,20210708,6,,Phone
+315,46,20210820,4,Interface confusing,Web
+316,230,20210305,6,,Phone
+317,259,20211005,5,,App
+318,78,20210810,0,Interface confusing,Phone
+319,59,20210730,5,Service is slow,Email
+320,102,20210605,1,Would recommend,Web
+321,58,20211117,2,Interface confusing,Web
+322,2,20210317,5,Service is slow,Phone
+323,35,20211107,8,,App
+324,229,20210711,4,Would recommend,Web
+325,62,20210531,3,Interface confusing,Phone
+326,162,20211205,2,Service is slow,Phone
+327,144,20211127,8,Would recommend,App
+328,99,20210124,2,Too many ads,Email
+329,4,20211119,4,,Email
+330,183,20211108,0,Love the app,Phone
+331,137,20211026,1,Service is slow,Email
+332,24,20210226,2,Interface confusing,App
+333,232,20211228,0,Fast & smooth,Email
+334,267,20210915,0,App crashes,App
+335,151,20210813,0,,Web
+336,128,20210818,0,Great experience,Phone
+337,40,20210508,1,,App
+338,141,20211206,10,Too many ads,Email
+339,233,20211013,0,App crashes,Web
+340,199,20210517,1,App crashes,App
+341,42,20210117,7,Too many ads,Phone
+342,92,20210718,1,Interface confusing,Phone
+343,104,20210924,3,Too many ads,Phone
+344,100,20211210,10,Great experience,App
+345,122,20210408,6,,Email
+346,69,20210314,9,Service is slow,Web
+347,29,20210415,0,Interface confusing,Phone
+348,111,20211003,2,Service is slow,App
+349,52,20210610,8,,Email
+350,89,20210209,0,Would recommend,Phone
+351,78,20211029,1,,Email
+352,22,20211107,10,App crashes,Web
+353,142,20210128,2,Would recommend,Web
+354,22,20210120,10,Interface confusing,App
+355,175,20210521,10,Would recommend,App
+356,22,20210429,10,Too many ads,App
+357,178,20210115,1,,Web
+358,226,20210508,1,Would recommend,Web
+359,224,20211119,0,,Web
+360,225,20211111,5,Love the app,App
+361,247,20210730,3,Service is slow,App
+362,212,20210505,1,Service is slow,Email
+363,197,20211211,0,Interface confusing,Email
+364,36,20210903,0,,Web
+365,229,20210903,9,Great experience,App
+366,227,20211231,1,Interface confusing,Email
+367,240,20211220,2,,Phone
+368,180,20210915,4,,Phone
+369,239,20211231,0,Love the app,App
+370,68,20210907,1,Great experience,Email
+371,27,20211207,3,Fast & smooth,Phone
+372,266,20211116,1,Would recommend,Web
+373,265,20210918,8,,Web
+374,188,20210919,0,Interface confusing,Email
+375,63,20210411,2,App crashes,Web
+376,10,20210812,0,,Phone
+377,215,20210910,1,Too many ads,Phone
+378,217,20211218,6,Fast & smooth,Phone
+379,59,20210221,2,,Web
+380,59,20210301,0,Service is slow,Phone
+381,68,20211109,3,,App
+382,29,20210421,10,Would recommend,Web
+383,214,20211105,7,App crashes,Phone
+384,187,20211011,9,Too many ads,Web
+385,109,20211101,10,Would recommend,Phone
+386,177,20211202,2,Too many ads,Phone
+387,52,20210220,3,Service is slow,App
+388,236,20211226,1,,Web
+389,15,20211003,0,Great experience,Email
+390,5,20211123,0,,App
+391,220,20211110,3,,Phone
+392,51,20210806,0,,App
+393,86,20211203,1,Would recommend,Email
+394,205,20210825,9,Great experience,Email
+395,181,20210225,1,,Email
+396,118,20210914,3,Would recommend,App
+397,142,20210208,0,Love the app,Email
+398,6,20211126,0,App crashes,Email
+399,142,20211022,3,Great experience,Web
+400,215,20211007,0,Would recommend,App
+401,255,20210821,0,Too many ads,Phone
+402,131,20210624,8,,Phone
+403,102,20210816,0,Too many ads,Phone
+404,132,20210614,1,Love the app,Email
+405,71,20210303,0,,App
+406,265,20211115,0,Fast & smooth,Email
+407,145,20210516,2,App crashes,Email
+408,80,20210320,0,Would recommend,Phone
+409,15,20210705,7,Great experience,Phone
+410,190,20210928,5,,Web
+411,138,20211029,3,Interface confusing,Phone
+412,130,20210629,0,Too many ads,Email
+413,213,20210912,7,Interface confusing,Phone
+414,119,20211230,10,Too many ads,Web
+415,121,20210716,2,App crashes,Web
+416,245,20211229,1,Would recommend,Email
+417,80,20210427,10,App crashes,App
+418,201,20210504,4,Great experience,Web
+419,218,20211013,4,Great experience,Email
+420,240,20211205,4,App crashes,App
+421,129,20210601,3,Great experience,Web
+422,224,20210825,1,Love the app,Web
+423,207,20210916,2,Great experience,App
+424,221,20211230,7,Service is slow,Web
+425,259,20211230,3,Great experience,App
+426,200,20210607,1,Great experience,Email
+427,72,20210209,10,App crashes,App
+428,194,20210720,4,,Web
+429,40,20210831,1,Great experience,App
+430,8,20211013,9,Too many ads,Web
+431,72,20210626,5,Too many ads,App
+432,30,20210330,0,Too many ads,App
+433,191,20211223,1,Too many ads,Email
+434,71,20210815,3,Interface confusing,Email
+435,103,20210406,1,Would recommend,App
+436,264,20211210,10,Love the app,App
+437,128,20210512,2,Service is slow,Web
+438,249,20210904,6,Great experience,Web
+439,118,20210627,5,Great experience,Email
+440,117,20211023,4,Fast & smooth,App
+441,42,20210724,0,Service is slow,App
+442,126,20210611,4,Too many ads,Web
+443,111,20210406,10,Too many ads,Web
+444,268,20211009,0,Love the app,Web
+445,268,20211207,4,Too many ads,Email
+446,44,20210323,4,Fast & smooth,Email
+447,135,20211104,7,,Phone
+448,242,20210626,5,Fast & smooth,Web
+449,135,20210910,0,,Email
+450,32,20211114,3,,App
+451,137,20211225,4,Great experience,Phone
+452,269,20210426,10,Fast & smooth,Web
+453,3,20210728,2,Interface confusing,Web
+454,29,20210624,0,Service is slow,Phone
+455,238,20211203,0,Love the app,App
+456,3,20210515,0,Would recommend,Phone
+457,53,20211105,0,Fast & smooth,Email
+458,264,20211220,9,Would recommend,Web
+459,156,20210614,9,Would recommend,App
+460,200,20210702,8,Interface confusing,Web
+461,144,20211220,5,Fast & smooth,Web
+462,217,20211110,2,Great experience,Email
+463,225,20210824,3,Service is slow,Email
+464,81,20210624,0,Great experience,Web
+465,217,20211221,1,,Web
+466,24,20210110,8,Interface confusing,Web
+467,34,20210807,1,Fast & smooth,App
+468,4,20210819,6,,App
+469,129,20210810,2,App crashes,Web
+470,221,20211116,7,Interface confusing,Web
+471,91,20210307,2,Would recommend,Web
+472,240,20211123,1,Great experience,App
+473,216,20211202,0,Interface confusing,Email
+474,265,20210913,1,Love the app,App
+475,20,20211218,1,Fast & smooth,Email
+476,268,20211002,1,,App
+477,119,20210715,0,Too many ads,App
+478,196,20211202,4,App crashes,Phone
+479,237,20211014,1,Love the app,Phone
+480,124,20210302,1,Interface confusing,Phone
+481,167,20210906,1,,App
+482,71,20211113,1,Service is slow,Web
+483,103,20210330,5,Love the app,Email
+484,263,20211101,3,,Email
+485,138,20210619,0,,Phone
+486,58,20210110,1,,App
+487,209,20210602,9,,App
+488,270,20211220,7,Fast & smooth,Web
+489,141,20210925,0,App crashes,App
+490,169,20210412,4,Service is slow,Web
+491,201,20210614,4,Too many ads,Web
+492,79,20210707,10,App crashes,Phone
+493,268,20211231,5,Service is slow,App
+494,267,20210905,5,Would recommend,Phone
+495,43,20210818,1,Interface confusing,App
+496,231,20211219,5,,Phone
+497,236,20211225,5,Service is slow,Web
+498,178,20210404,7,Great experience,Phone
+499,266,20211011,4,Would recommend,Email
+500,20,20210309,0,Fast & smooth,App
+501,165,20210323,2,Fast & smooth,App
+502,116,20210225,2,Love the app,Web
+503,86,20210821,8,Fast & smooth,Email
+504,16,20210430,1,Would recommend,App
+505,243,20211226,0,Fast & smooth,Email
+506,82,20211107,7,Interface confusing,App
+507,21,20210205,4,Fast & smooth,Phone
+508,93,20210701,4,Would recommend,Web
+509,152,20210926,0,,App
+510,128,20210728,3,Would recommend,Email
+511,236,20211230,6,Fast & smooth,Web
+512,185,20210618,9,,App
+513,204,20210131,10,Fast & smooth,Email
+514,41,20210609,1,,Web
+515,37,20210719,0,,App
+516,3,20221021,0,Interface confusing,Email
+517,85,20221001,0,Great experience,App
+518,49,20220726,2,,App
+519,136,20221120,6,,Web
+520,27,20220720,8,App crashes,Phone
+521,175,20220629,2,Would recommend,App
+522,150,20220830,4,App crashes,Phone
+523,198,20221001,2,,App
+524,298,20220623,0,Would recommend,App
+525,137,20220107,3,,Web
+526,201,20220911,10,Fast & smooth,App
+527,199,20221017,0,Would recommend,Web
+528,164,20221205,4,Interface confusing,Email
+529,15,20221204,7,Would recommend,App
+530,203,20220704,2,App crashes,App
+531,285,20221208,0,Fast & smooth,Phone
+532,299,20220901,0,Fast & smooth,Email
+533,315,20220904,0,App crashes,Email
+534,134,20221009,2,Interface confusing,Email
+535,255,20220820,5,Too many ads,Email
+536,16,20220313,1,Great experience,Phone
+537,226,20220215,2,Love the app,Phone
+538,99,20221230,0,Great experience,App
+539,205,20221229,3,App crashes,Web
+540,62,20220907,6,,Web
+541,258,20220402,3,Too many ads,App
+542,269,20220206,2,App crashes,Web
+543,39,20221025,9,,App
+544,139,20220715,2,Love the app,Phone
+545,207,20220410,9,App crashes,App
+546,32,20220718,2,App crashes,App
+547,246,20220311,2,App crashes,Web
+548,243,20220812,9,,Phone
+549,49,20221010,0,Would recommend,App
+550,208,20220803,1,Interface confusing,App
+551,27,20220731,6,App crashes,Phone
+552,128,20220418,4,Interface confusing,Email
+553,2,20220123,1,,Email
+554,117,20220118,2,,Web
+555,93,20221203,10,Love the app,App
+556,202,20221117,8,Service is slow,Phone
+557,228,20220115,4,,Phone
+558,214,20220927,6,Interface confusing,Email
+559,282,20221118,0,Would recommend,Email
+560,245,20220704,2,Would recommend,Web
+561,103,20220403,8,Service is slow,Phone
+562,158,20221011,2,Would recommend,Email
+563,97,20221116,4,,App
+564,28,20220327,7,,App
+565,28,20221016,1,Love the app,App
+566,230,20221031,4,,App
+567,91,20220713,6,App crashes,App
+568,132,20220603,7,,Email
+569,141,20220531,0,,App
+570,86,20221106,0,Would recommend,Phone
+571,187,20221220,3,,App
+572,76,20221013,7,Interface confusing,Phone
+573,53,20220627,1,Would recommend,App
+574,98,20220623,4,Great experience,Web
+575,162,20220707,0,,Phone
+576,102,20221104,4,,Email
+577,307,20221225,6,Would recommend,Phone
+578,326,20221011,4,Great experience,Phone
+579,159,20220326,2,App crashes,Email
+580,261,20220826,0,Great experience,Web
+581,93,20220606,7,Love the app,Web
+582,163,20220501,1,,Phone
+583,232,20220721,8,Great experience,Email
+584,225,20220822,7,Love the app,Email
+585,158,20221104,3,App crashes,Web
+586,239,20221219,0,Love the app,Web
+587,209,20220917,1,Fast & smooth,Phone
+588,169,20220405,4,Love the app,Email
+589,278,20221102,2,App crashes,App
+590,314,20221101,1,,App
+591,94,20220807,1,App crashes,App
+592,33,20220703,4,Too many ads,Web
+593,319,20221212,2,,Web
+594,204,20220313,1,Fast & smooth,Web
+595,193,20220530,1,Interface confusing,Phone
+596,269,20220418,6,,Phone
+597,85,20221214,7,Would recommend,Email
+598,310,20221124,0,Too many ads,Email
+599,215,20220611,2,Service is slow,Web
+600,209,20221103,7,Service is slow,Web
+601,225,20220818,1,Fast & smooth,Web
+602,237,20220611,5,Fast & smooth,App
+603,121,20220427,2,Would recommend,Email
+604,6,20220317,2,Service is slow,Email
+605,74,20221215,2,,Email
+606,31,20220816,1,Too many ads,Web
+607,298,20220601,0,Fast & smooth,App
+608,207,20220731,1,Fast & smooth,Email
+609,265,20220818,1,Interface confusing,Email
+610,321,20220603,3,,App
+611,272,20221210,6,Would recommend,App
+612,130,20220110,3,Service is slow,Email
+613,263,20220630,9,Would recommend,Web
+614,202,20221207,8,,App
+615,190,20220514,4,Would recommend,Email
+616,161,20220804,3,Love the app,Web
+617,46,20220330,9,Great experience,Phone
+618,246,20221123,3,Would recommend,Email
+619,20,20220603,0,Interface confusing,Phone
+620,238,20220714,0,Would recommend,Email
+621,78,20220125,3,Great experience,Email
+622,60,20220826,0,App crashes,Email
+623,70,20221110,3,Service is slow,App
+624,239,20220327,5,Great experience,App
+625,317,20220921,0,,App
+626,22,20220720,0,Fast & smooth,Phone
+627,324,20220909,10,Interface confusing,Web
+628,8,20221229,1,Fast & smooth,App
+629,183,20220330,10,Service is slow,App
+630,140,20221003,5,Too many ads,Email
+631,67,20220609,9,Fast & smooth,Email
+632,215,20220923,10,Too many ads,App
+633,76,20220313,6,Would recommend,Email
+634,96,20220104,0,Interface confusing,Email
+635,92,20220801,5,Interface confusing,App
+636,203,20220124,7,,Email
+637,98,20220923,5,Love the app,App
+638,201,20220417,2,Too many ads,Web
+639,212,20220816,0,Great experience,Email
+640,142,20220416,6,Interface confusing,Email
+641,322,20221224,6,Great experience,Phone
+642,242,20221001,7,Service is slow,Web
+643,229,20221006,8,Great experience,App
+644,145,20220114,4,Service is slow,Phone
+645,115,20220717,7,Fast & smooth,Web
+646,269,20221219,0,Love the app,Web
+647,245,20220110,8,,Phone
+648,217,20220618,7,Interface confusing,Email
+649,291,20221226,10,Love the app,Web
+650,232,20220505,3,Too many ads,Web
+651,33,20220822,4,Great experience,Web
+652,183,20220107,2,Fast & smooth,Email
+653,80,20221129,1,,Email
+654,329,20221201,4,Great experience,Web
+655,236,20221223,0,Fast & smooth,Email
+656,186,20220509,7,,App
+657,257,20220221,0,Fast & smooth,Phone
+658,312,20221026,9,Too many ads,Phone
+659,291,20220430,3,Great experience,Web
+660,247,20220508,2,,Web
+661,256,20220117,8,Too many ads,Web
+662,9,20220824,4,Service is slow,App
+663,75,20221114,0,Would recommend,Web
+664,209,20220219,1,Interface confusing,Email
+665,255,20220115,1,Service is slow,App
+666,235,20220611,2,Fast & smooth,Phone
+667,286,20220913,0,App crashes,App
+668,185,20220327,4,Too many ads,Phone
+669,30,20220819,1,Service is slow,Web
+670,330,20221123,7,Love the app,App
+671,164,20221220,2,App crashes,App
+672,239,20220914,8,Love the app,Phone
+673,1,20220514,4,Great experience,App
+674,241,20220818,5,,Phone
+675,67,20220720,1,,Email
+676,98,20221228,6,Interface confusing,Web
+677,260,20220202,1,Service is slow,App
+678,74,20220613,1,Too many ads,App
+679,158,20220109,0,App crashes,Web
+680,83,20221225,3,,App
+681,33,20220921,6,Too many ads,Phone
+682,145,20221114,5,,App
+683,227,20220901,8,Fast & smooth,Web
+684,54,20220110,3,Too many ads,Phone
+685,307,20221219,8,Too many ads,Email
+686,13,20220223,5,Too many ads,Web
+687,67,20220828,4,,App
+688,236,20220908,2,Fast & smooth,Phone
+689,257,20220803,1,,Web
+690,53,20220129,1,Service is slow,Phone
+691,33,20220228,2,App crashes,Email
+692,293,20220617,9,App crashes,App
+693,103,20220617,0,Too many ads,Phone
+694,189,20221222,0,Love the app,Email
+695,101,20220915,1,Interface confusing,Email
+696,7,20220312,0,Love the app,Email
+697,1,20220928,1,App crashes,Email
+698,196,20220527,2,Too many ads,Web
+699,172,20221031,5,,Web
+700,68,20220413,8,,Web
+701,129,20220730,9,,Email
+702,179,20220811,6,App crashes,Phone
+703,323,20220914,1,,Web
+704,290,20221224,2,App crashes,Email
+705,157,20220126,0,App crashes,Web
+706,76,20220202,7,Service is slow,Phone
+707,108,20220323,6,Great experience,Email
+708,303,20221123,1,Would recommend,App
+709,200,20220208,1,App crashes,Email
+710,198,20220627,6,Great experience,Web
+711,249,20221003,0,Love the app,Phone
+712,18,20220328,4,Service is slow,Phone
+713,260,20221231,7,,Phone
+714,327,20221003,3,Would recommend,Email
+715,162,20220108,1,,Email
+716,18,20220528,9,Fast & smooth,App
+717,298,20220218,0,Great experience,Email
+718,283,20221206,0,Would recommend,Email
+719,2,20220720,8,Would recommend,Phone
+720,155,20221106,10,,Phone
+721,213,20220312,1,Would recommend,Email
+722,161,20221212,2,Would recommend,App
+723,72,20220624,9,Fast & smooth,App
+724,36,20220907,0,Would recommend,Email
+725,260,20220521,4,,Web
+726,56,20220301,6,App crashes,Email
+727,41,20220809,5,Love the app,Web
+728,137,20221210,0,,Phone
+729,133,20220219,6,Too many ads,Email
+730,127,20221008,3,Service is slow,Email
+731,36,20220503,9,App crashes,Phone
+732,127,20220314,1,Would recommend,Email
+733,234,20220215,3,App crashes,Phone
+734,90,20220309,5,Fast & smooth,Email
+735,314,20221025,2,Service is slow,Email
+736,15,20220308,7,App crashes,App
+737,94,20220809,3,,App
+738,137,20220620,7,Interface confusing,Web
+739,138,20220415,1,Fast & smooth,Web
+740,41,20221211,2,,App
+741,118,20220427,4,App crashes,App
+742,159,20220828,3,Love the app,Web
+743,226,20220329,7,Fast & smooth,Phone
+744,96,20221129,7,,App
+745,119,20220227,0,App crashes,Phone
+746,154,20220220,3,,Email
+747,124,20220912,4,Service is slow,Email
+748,237,20220223,1,,Phone
+749,213,20220304,4,App crashes,Email
+750,66,20220104,1,Interface confusing,App
+751,132,20220306,6,Too many ads,Phone
+752,101,20221009,2,Great experience,Web
+753,60,20220617,7,,Phone
+754,179,20220428,10,Fast & smooth,App
+755,85,20220117,0,Would recommend,Web
+756,159,20221022,10,App crashes,App
+757,258,20220530,0,Service is slow,Email
+758,21,20220723,1,Great experience,Phone
+759,210,20220817,1,Fast & smooth,App
+760,92,20220405,10,Fast & smooth,Email
+761,111,20220409,1,Service is slow,Email
+762,259,20221209,1,App crashes,App
+763,29,20220119,9,Service is slow,Web
+764,216,20220110,7,Love the app,Email
+765,15,20221026,2,Would recommend,Email
+766,164,20220606,10,Great experience,Web
+767,275,20221227,1,,Web
+768,63,20220430,2,Service is slow,Web
+769,242,20220723,6,Love the app,Web
+770,292,20221214,2,Too many ads,Email
+771,285,20220515,9,,Phone
+772,287,20221028,3,Love the app,Phone
+773,79,20221028,1,Too many ads,Email
+774,103,20221018,6,Would recommend,Email
+775,84,20220826,1,Fast & smooth,App
+776,168,20221211,1,Great experience,Web
+777,39,20220413,4,Would recommend,Phone
+778,220,20221211,0,Too many ads,App
+779,97,20220304,10,Too many ads,App
+780,10,20220114,0,,Phone
+781,226,20221028,2,,Web
+782,182,20220503,1,,App
+783,159,20221017,8,Service is slow,Email
+784,176,20220208,0,Would recommend,App
+785,295,20221117,2,App crashes,Web
+786,108,20220228,9,,Web
+787,250,20221219,1,,Phone
+788,123,20220527,1,Interface confusing,Phone
+789,226,20230811,4,Fast & smooth,Email
+790,10,20231210,10,Great experience,Email
+791,102,20230905,3,Great experience,App
+792,33,20230411,4,Would recommend,Phone
+793,244,20230514,8,Interface confusing,Phone
+794,258,20230301,7,,App
+795,66,20231022,4,Great experience,Email
+796,75,20230321,2,Great experience,App
+797,226,20231117,1,Great experience,Web
+798,54,20230514,1,Great experience,Web
+799,218,20230421,1,,App
+800,134,20230720,3,Would recommend,Web
+801,124,20230307,2,Interface confusing,Email
+802,43,20230113,0,Great experience,App
+803,332,20230507,3,Fast & smooth,Web
+804,273,20230727,1,App crashes,Web
+805,156,20230614,10,Great experience,Email
+806,149,20230128,1,App crashes,Web
+807,238,20230203,9,App crashes,App
+808,205,20230322,2,Great experience,App
+809,182,20231223,0,Too many ads,Email
+810,364,20230919,8,Would recommend,Email
+811,305,20231211,0,Service is slow,Phone
+812,367,20231210,3,App crashes,Web
+813,212,20230509,0,App crashes,Phone
+814,92,20230423,0,Would recommend,Web
+815,167,20230305,7,Would recommend,Email
+816,109,20231026,3,,App
+817,101,20231006,4,Too many ads,Phone
+818,335,20230901,5,App crashes,Email
+819,282,20230413,1,,Web
+820,186,20230127,0,Service is slow,Web
+821,163,20230514,0,Too many ads,Email
+822,127,20230519,10,Love the app,Web
+823,293,20231226,2,Great experience,App
+824,108,20230329,10,Too many ads,Web
+825,213,20230608,2,Great experience,Email
+826,120,20231209,5,Great experience,Web
+827,7,20230209,5,,Email
+828,166,20230221,7,Too many ads,App
+829,358,20231228,5,Interface confusing,App
+830,46,20230731,7,,Phone
+831,44,20231128,2,Interface confusing,Phone
+832,213,20230530,3,Great experience,Phone
+833,177,20231126,1,,Email
+834,277,20230830,3,Too many ads,Email
+835,110,20230429,1,Love the app,Phone
+836,322,20230601,2,Too many ads,Email
+837,206,20230716,6,Fast & smooth,Phone
+838,72,20230626,5,Would recommend,Email
+839,243,20231019,1,Too many ads,Web
+840,135,20231120,3,App crashes,Email
+841,278,20231117,4,,Web
+842,296,20230512,5,Love the app,Email
+843,345,20231203,2,Interface confusing,Web
+844,167,20231210,3,Fast & smooth,Web
+845,43,20230620,1,Would recommend,Email
+846,126,20231208,1,,Email
+847,40,20230909,9,Service is slow,Web
+848,182,20231110,1,,App
+849,305,20230208,0,,App
+850,44,20230226,8,Great experience,Phone
+851,191,20231115,0,Would recommend,Email
+852,118,20230427,1,Would recommend,Web
+853,209,20230922,0,Service is slow,App
+854,258,20230502,8,Love the app,Email
+855,31,20230103,0,,Phone
+856,365,20231215,10,Love the app,Email
+857,326,20230129,1,App crashes,Phone
+858,218,20231229,1,,Phone
+859,104,20230630,1,,Email
+860,107,20230302,10,Interface confusing,App
+861,102,20230823,4,,App
+862,316,20230410,5,Fast & smooth,Email
+863,59,20230711,3,App crashes,App
+864,250,20230629,0,Too many ads,Phone
+865,187,20230723,7,App crashes,App
+866,66,20231231,0,Great experience,App
+867,285,20230311,3,Love the app,App
+868,110,20230303,10,Interface confusing,Phone
+869,163,20230323,2,Service is slow,Phone
+870,231,20230429,10,,App
+871,365,20230417,9,Service is slow,Email
+872,272,20230525,3,Great experience,Phone
+873,207,20230820,0,App crashes,App
+874,53,20230926,0,Would recommend,App
+875,156,20230308,1,Love the app,Web
+876,249,20230214,1,Too many ads,Phone
+877,325,20231127,5,Great experience,Phone
+878,274,20230416,10,Service is slow,Email
+879,279,20230918,1,,Phone
+880,197,20230113,3,Would recommend,Web
+881,96,20230102,0,Interface confusing,Email
+882,349,20231211,9,Great experience,Phone
+883,205,20230412,9,Great experience,Web
+884,77,20230416,0,Great experience,Phone
+885,103,20231224,2,Would recommend,Web
+886,10,20230721,0,Fast & smooth,App
+887,294,20230222,9,Love the app,Phone
+888,270,20230211,3,,Phone
+889,56,20231214,7,,Web
+890,93,20230710,3,Service is slow,App
+891,206,20230422,0,Interface confusing,Email
+892,123,20230315,1,,Web
+893,70,20230621,3,Fast & smooth,Email
+894,369,20231025,8,Great experience,Web
+895,285,20231211,2,App crashes,App
+896,211,20230519,0,,Email
+897,264,20231011,5,Too many ads,Web
+898,278,20230323,6,Fast & smooth,Email
+899,123,20231006,3,Would recommend,App
+900,285,20230912,8,Would recommend,App
+901,10,20230213,1,Service is slow,Email
+902,252,20231015,0,Too many ads,Web
+903,238,20230921,0,,App
+904,74,20230922,6,Too many ads,Phone
+905,291,20230506,2,Love the app,Phone
+906,260,20230428,3,Fast & smooth,Phone
+907,228,20230326,8,Interface confusing,Email
+908,293,20230121,10,Love the app,App
+909,178,20230130,10,Service is slow,Email
+910,352,20230905,0,Fast & smooth,App
+911,309,20231121,5,Would recommend,Phone
+912,220,20231211,0,,Email
+913,137,20230819,6,Fast & smooth,App
+914,313,20230705,0,Interface confusing,Web
+915,86,20230905,1,Too many ads,App
+916,327,20230915,10,Too many ads,Phone
+917,256,20231016,10,Interface confusing,App
+918,154,20230329,0,,Phone
+919,19,20230903,6,Would recommend,Web
+920,278,20231024,10,Service is slow,App
+921,141,20231127,8,Love the app,Phone
+922,120,20230607,3,Fast & smooth,Web
+923,345,20231024,5,Interface confusing,Phone
+924,146,20230729,4,Interface confusing,Web
+925,287,20231008,0,Would recommend,Phone
+926,247,20230913,6,Would recommend,Web
+927,86,20230505,6,,App
+928,28,20230422,4,,App
+929,279,20231013,4,Interface confusing,Email
+930,83,20230316,1,Great experience,Email
+931,28,20230203,9,Service is slow,Phone
+932,137,20231223,8,Fast & smooth,Phone
+933,113,20230502,5,Great experience,App
+934,10,20230311,0,Great experience,Phone
+935,64,20231230,7,Great experience,App
+936,311,20231120,0,Interface confusing,Phone
+937,154,20230210,8,Would recommend,Web
+938,19,20230115,0,Interface confusing,Phone
+939,249,20231022,1,Great experience,App
+940,199,20230123,4,Interface confusing,Email
+941,266,20230628,2,App crashes,Email
+942,214,20230525,4,,Web
+943,160,20231004,7,Service is slow,Phone
+944,174,20231113,8,,Email
+945,213,20230813,8,App crashes,App
+946,347,20231231,9,Fast & smooth,App
+947,337,20230925,6,Would recommend,App
+948,154,20230725,9,Service is slow,Email
+949,4,20230903,5,Too many ads,Web
+950,56,20230416,1,Would recommend,Web
+951,290,20230930,0,App crashes,Phone
+952,218,20231019,1,Would recommend,Email
+953,296,20230226,6,,App
+954,199,20230909,4,Fast & smooth,Web
+955,172,20230409,5,Interface confusing,Phone
+956,132,20230505,4,Fast & smooth,Web
+957,38,20230615,7,Too many ads,Email
+958,258,20230908,4,Fast & smooth,Web
+959,297,20230927,6,App crashes,Phone
+960,175,20230525,3,,Email
+961,171,20230219,4,,Phone
+962,120,20230315,9,Service is slow,Web
+963,43,20231001,3,,App
+964,83,20230817,2,Great experience,Phone
+965,44,20231205,3,,Email
+966,276,20230613,0,App crashes,Phone
+967,260,20230313,9,Great experience,App
+968,41,20230217,6,Too many ads,Web
+969,133,20230823,2,,App
+970,223,20230111,8,Service is slow,App
+971,254,20230222,10,Fast & smooth,Email
+972,112,20230124,5,App crashes,Web
+973,347,20231220,7,,Email
+974,263,20230723,3,,Phone
+975,297,20230425,0,,App
+976,34,20230907,5,Fast & smooth,Web
+977,113,20230403,10,Service is slow,Email
+978,234,20230608,1,Interface confusing,Phone
+979,83,20231024,0,Great experience,App
+980,330,20230321,9,Would recommend,Web
+981,10,20231224,4,Service is slow,Web
+982,267,20231026,6,Would recommend,Web
+983,303,20230212,4,,App
+984,324,20230506,7,App crashes,Email
+985,233,20231110,0,App crashes,Web
+986,134,20230506,0,Would recommend,Phone
+987,211,20230701,10,Great experience,App
+988,244,20230511,0,Great experience,Phone
+989,100,20231011,3,Would recommend,Phone
+990,44,20230903,0,Love the app,Email
+991,293,20231015,3,Would recommend,Email
+992,10,20230108,0,Love the app,Email
+993,151,20230514,8,Love the app,App
+994,270,20230423,6,Love the app,Email
+995,45,20230104,0,Too many ads,Phone
+996,138,20230916,1,Love the app,Email
+997,97,20230828,3,,Email
+998,348,20230705,10,Fast & smooth,Email
+999,208,20230915,4,App crashes,Email
+1000,124,20231028,1,Love the app,Email
+1001,271,20230721,0,Service is slow,Phone
+1002,254,20230602,2,Too many ads,Web
+1003,274,20230927,1,Service is slow,App
+1004,190,20230504,9,,App
+1005,300,20230807,10,Would recommend,Phone
+1006,208,20230515,0,Service is slow,App
+1007,264,20230918,2,Fast & smooth,App
+1008,304,20230731,0,Great experience,Web
+1009,122,20230121,6,Love the app,App
+1010,90,20231031,0,Interface confusing,Web
+1011,345,20231212,7,Service is slow,Web
+1012,283,20230503,3,Interface confusing,Email
+1013,268,20230927,4,Great experience,Email
+1014,17,20230218,6,Fast & smooth,App
+1015,29,20230728,10,Love the app,App
+1016,365,20230809,6,Love the app,Phone
+1017,229,20230610,0,Too many ads,Web
+1018,205,20230907,4,App crashes,App
+1019,243,20230716,4,Would recommend,Email
+1020,117,20231115,7,Great experience,Phone
+1021,116,20230614,5,Love the app,Phone
+1022,216,20230219,4,App crashes,Email
+1023,225,20231103,10,,App
+1024,345,20230904,8,Service is slow,Web
+1025,244,20230909,1,Fast & smooth,Email
+1026,165,20230604,8,,App
+1027,233,20230822,3,,Email
+1028,367,20230819,7,,Phone
+1029,333,20231225,4,Would recommend,Web
+1030,13,20231203,3,Fast & smooth,Web
+1031,121,20231214,5,Too many ads,Email
+1032,73,20231223,9,,Email
+1033,138,20230317,3,Interface confusing,App
+1034,253,20230324,5,Fast & smooth,Web
+1035,279,20231116,1,Great experience,App
+1036,269,20230906,4,,Email
+1037,132,20230424,1,Service is slow,Web
+1038,240,20230626,7,Great experience,Phone
+1039,47,20230330,9,App crashes,App
+1040,71,20230718,1,Would recommend,App
+1041,315,20230507,4,Too many ads,Email
+1042,234,20230121,9,Love the app,Web
+1043,245,20231120,1,App crashes,Web
+1044,73,20231201,2,App crashes,Web
+1045,114,20230125,5,Service is slow,Web
+1046,366,20230417,4,Too many ads,App
+1047,263,20230205,0,Service is slow,Email
+1048,237,20230224,7,,App
+1049,165,20230618,3,,Phone
+1050,137,20230619,3,,Web
+1051,301,20231221,5,Great experience,Web
+1052,367,20230515,8,Too many ads,App
+1053,173,20230506,0,Service is slow,Phone
+1054,224,20230419,1,,Phone
+1055,28,20230731,1,,Email
+1056,289,20230306,1,Interface confusing,Web
+1057,25,20231124,4,,Phone
+1058,100,20231221,0,App crashes,App
+1059,88,20230102,1,Great experience,Phone
+1060,231,20231207,4,Love the app,Web
+1061,250,20230612,4,Great experience,App
+1062,75,20230118,6,Fast & smooth,Web
+1063,247,20230228,3,,Email
+1064,41,20230924,5,Interface confusing,Phone
+1065,193,20230126,8,Love the app,Phone
+1066,178,20230421,2,Interface confusing,Web
+1067,7,20230424,2,Interface confusing,Web
+1068,33,20230108,4,Would recommend,Web
+1069,42,20230105,4,,Email
+1070,232,20230610,1,Too many ads,Phone
+1071,134,20230403,9,Interface confusing,Web
+1072,149,20231002,5,Would recommend,Phone
+1073,95,20230207,4,Would recommend,Web
+1074,252,20231212,5,App crashes,Phone
+1075,290,20230207,0,Interface confusing,Phone
+1076,255,20230318,0,Great experience,Email
+1077,251,20230414,5,Love the app,Web
+1078,343,20230610,10,Would recommend,Email
+1079,276,20230428,1,App crashes,Phone
+1080,296,20230108,4,Love the app,Web
+1081,71,20231208,10,App crashes,Phone
+1082,217,20230302,4,,Email
+1083,306,20230901,6,Fast & smooth,Web
+1084,174,20230507,4,,App
+1085,117,20230723,0,App crashes,Web
+1086,358,20231123,7,,Email
+1087,185,20231031,0,Fast & smooth,App
+1088,275,20231103,0,Great experience,Phone
+1089,132,20231217,6,App crashes,Phone
+1090,177,20231120,0,,Email
+1091,347,20231223,10,Fast & smooth,Phone
+1092,149,20230731,7,Too many ads,Phone
+1093,325,20241202,3,App crashes,App
+1094,237,20240312,3,Too many ads,App
+1095,55,20240525,2,Great experience,Web
+1096,320,20240320,0,Too many ads,Web
+1097,117,20240121,1,Service is slow,Email
+1098,345,20240705,5,Service is slow,Email
+1099,333,20241015,10,Love the app,Email
+1100,380,20241211,8,Would recommend,Phone
+1101,103,20240212,4,,Web
+1102,324,20241101,7,Great experience,Phone
+1103,358,20240708,7,Interface confusing,Phone
+1104,4,20240303,5,Service is slow,Web
+1105,40,20240731,10,Service is slow,App
+1106,140,20240605,6,App crashes,Email
+1107,353,20241120,3,,Web
+1108,201,20240914,4,Service is slow,Web
+1109,27,20240225,4,Love the app,Email
+1110,264,20241209,4,Too many ads,Email
+1111,139,20240306,6,Great experience,Web
+1112,237,20240622,8,Love the app,App
+1113,75,20240116,1,Service is slow,Email
+1114,16,20240325,0,,Email
+1115,91,20240525,4,Fast & smooth,Web
+1116,347,20240211,3,Interface confusing,Web
+1117,16,20240401,5,Love the app,Web
+1118,74,20240313,4,,Phone
+1119,263,20241013,2,Service is slow,App
+1120,208,20241103,7,Interface confusing,Web
+1121,96,20240705,0,,Web
+1122,63,20240309,3,Love the app,Phone
+1123,298,20240913,1,Too many ads,Web
+1124,243,20241214,7,App crashes,App
+1125,299,20240904,10,Would recommend,Web
+1126,140,20240221,3,Love the app,Phone
+1127,16,20240711,10,Love the app,Email
+1128,76,20241231,1,,Phone
+1129,146,20240818,1,Great experience,Phone
+1130,41,20240325,2,,Email
+1131,394,20241210,4,Love the app,App
+1132,168,20240308,6,Fast & smooth,Web
+1133,93,20240205,9,Service is slow,Web
+1134,50,20241013,2,Service is slow,Phone
+1135,75,20240528,2,Would recommend,Web
+1136,78,20240728,8,Too many ads,Email
+1137,25,20241026,0,Service is slow,App
+1138,370,20240430,10,,Phone
+1139,329,20240101,0,,App
+1140,208,20240414,0,Would recommend,App
+1141,366,20240818,6,App crashes,App
+1142,347,20240830,9,Interface confusing,Email
+1143,188,20240912,4,,Phone
+1144,140,20240715,7,App crashes,Web
+1145,322,20240420,4,Too many ads,Email
+1146,191,20240116,10,,App
+1147,116,20241230,7,App crashes,App
+1148,322,20241004,4,Service is slow,Email
+1149,342,20240320,5,Interface confusing,Email
+1150,40,20240119,9,,Web
+1151,136,20240606,1,Service is slow,Phone
+1152,335,20240917,6,App crashes,App
+1153,120,20240217,1,Service is slow,Web
+1154,233,20241208,3,,Phone
+1155,14,20240322,1,Too many ads,App
+1156,245,20240617,2,Fast & smooth,Email
+1157,61,20241114,9,Fast & smooth,App
+1158,143,20241225,0,,App
+1159,6,20240625,4,Service is slow,Web
+1160,47,20240319,3,Fast & smooth,Web
+1161,92,20241122,1,Interface confusing,App
+1162,334,20240428,6,Fast & smooth,App
+1163,33,20240810,3,App crashes,Phone
+1164,127,20240821,0,,App
+1165,225,20240901,2,Fast & smooth,Phone
+1166,233,20241104,3,Great experience,App
+1167,62,20241209,6,Great experience,Email
+1168,350,20241001,8,Great experience,App
+1169,160,20240803,0,Too many ads,Web
+1170,41,20241202,3,,Web
+1171,242,20240701,1,Fast & smooth,App
+1172,224,20240331,2,Interface confusing,Web
+1173,152,20240712,3,Interface confusing,Email
+1174,265,20240706,0,Interface confusing,App
+1175,279,20240218,1,,Email
+1176,204,20240603,3,,Email
+1177,192,20240217,8,Love the app,Email
+1178,177,20240213,8,Interface confusing,Phone
+1179,256,20241006,6,Interface confusing,Email
+1180,194,20240624,1,,App
+1181,267,20240206,2,Interface confusing,Email
+1182,336,20240804,6,,Email
+1183,37,20240126,3,Fast & smooth,Email
+1184,264,20241127,4,Too many ads,Email
+1185,394,20241027,6,App crashes,App
+1186,53,20240117,6,Service is slow,Email
+1187,247,20240501,10,Service is slow,Phone
+1188,69,20240312,5,,Email
+1189,346,20240814,6,Would recommend,App
+1190,81,20241007,4,,Web
+1191,75,20240303,4,Too many ads,App
+1192,185,20240102,0,Service is slow,Email
+1193,32,20240916,8,Great experience,App
+1194,79,20240930,3,Would recommend,Phone
+1195,269,20240426,4,Too many ads,Web
+1196,185,20241020,2,,Email
+1197,79,20240420,10,Interface confusing,Email
+1198,67,20240610,0,Love the app,App
+1199,148,20241105,6,Great experience,App
+1200,368,20240306,2,,Email
+1201,319,20240506,0,Love the app,Phone
+1202,52,20240611,0,,Email
+1203,392,20241122,6,Great experience,App
+1204,393,20241208,5,Too many ads,Web
+1205,222,20240118,9,Fast & smooth,Email
+1206,222,20240120,0,Great experience,Web
+1207,218,20240209,9,Would recommend,Web
+1208,297,20240205,7,,App
+1209,59,20240930,1,Great experience,Email
+1210,400,20241024,9,Service is slow,Phone
+1211,391,20240923,8,Interface confusing,Email
+1212,74,20240325,2,Service is slow,Web
+1213,177,20240130,0,App crashes,App
+1214,268,20240327,1,Interface confusing,Email
+1215,374,20241104,2,Interface confusing,Phone
+1216,133,20241028,7,Interface confusing,App
+1217,7,20240728,8,Too many ads,Email
+1218,212,20240406,1,Interface confusing,App
+1219,298,20241104,4,,Phone
+1220,377,20241202,8,Service is slow,Phone
+1221,216,20241025,3,Too many ads,Web
+1222,304,20240118,2,Fast & smooth,Phone
+1223,205,20241224,0,Would recommend,Web
+1224,149,20240710,3,,Phone
+1225,147,20240602,5,Service is slow,Phone
+1226,25,20240325,1,App crashes,Web
+1227,376,20240515,7,Interface confusing,Phone
+1228,76,20240903,2,Fast & smooth,Phone
+1229,207,20240412,2,Love the app,App
+1230,292,20240402,8,Fast & smooth,Email
+1231,114,20241230,7,Interface confusing,App
+1232,356,20240729,4,Would recommend,Email
+1233,185,20241226,8,Love the app,Phone
+1234,387,20240807,9,Fast & smooth,Phone
+1235,133,20241231,1,Fast & smooth,Web
+1236,171,20240126,2,App crashes,Web
+1237,312,20241212,4,Fast & smooth,Phone
+1238,112,20240122,2,Too many ads,App
+1239,229,20241231,6,Interface confusing,Phone
+1240,248,20240701,4,Fast & smooth,App
+1241,356,20240316,10,Great experience,App
+1242,146,20241101,0,,Web
+1243,338,20240730,3,Fast & smooth,App
+1244,304,20240229,5,App crashes,Phone
+1245,194,20240301,1,Service is slow,Web
+1246,10,20240823,2,Great experience,App
+1247,340,20240904,3,Interface confusing,App
+1248,106,20241022,0,Service is slow,Web
+1249,396,20240505,0,Great experience,Phone
+1250,194,20241208,7,Love the app,Email
+1251,294,20240326,0,App crashes,Phone
+1252,113,20241006,0,Interface confusing,Phone
+1253,54,20240522,0,App crashes,App
+1254,114,20240703,1,,Email
+1255,73,20240529,4,Interface confusing,Web
+1256,388,20241010,7,Too many ads,App
+1257,10,20240610,8,Interface confusing,Email
+1258,369,20241113,3,Great experience,App
+1259,83,20240918,3,Great experience,App
+1260,276,20241018,0,Great experience,App
+1261,24,20240820,6,Great experience,App
+1262,112,20240615,7,Would recommend,Email
+1263,2,20240830,10,Service is slow,Phone
+1264,207,20240811,0,Interface confusing,Email
+1265,188,20241013,1,Interface confusing,Phone
+1266,328,20240928,5,,App
+1267,248,20240526,1,Fast & smooth,App
+1268,26,20240304,2,Fast & smooth,Phone
+1269,211,20240327,0,Service is slow,Email
+1270,327,20241209,4,Interface confusing,App
+1271,365,20240913,4,Service is slow,Email
+1272,344,20240605,4,,Email
+1273,312,20240530,8,Interface confusing,Web
+1274,125,20240624,3,Great experience,Phone
+1275,347,20240212,10,,Web
+1276,126,20240124,3,Would recommend,Phone
+1277,154,20240904,5,,Phone
+1278,342,20240109,4,Great experience,Web
+1279,214,20240916,2,,App
+1280,227,20240625,4,Fast & smooth,Phone
+1281,182,20241126,0,Too many ads,Web
+1282,387,20241115,2,Fast & smooth,Web
+1283,264,20241217,2,Too many ads,App
+1284,163,20241025,1,Great experience,Web
+1285,260,20241016,5,Fast & smooth,Web
+1286,93,20240415,2,App crashes,Web
+1287,45,20241115,1,Service is slow,App
+1288,201,20240325,10,Great experience,Email
+1289,374,20240211,6,Would recommend,Email
+1290,206,20240314,4,Too many ads,Email
+1291,214,20241102,0,Fast & smooth,Web
+1292,314,20241206,0,Too many ads,Web
+1293,359,20240612,3,Interface confusing,App
+1294,252,20240827,9,Great experience,Web
+1295,333,20241022,8,Too many ads,Email
+1296,308,20240129,8,,App
+1297,12,20240428,8,Service is slow,App
+1298,177,20240622,1,Interface confusing,Web
+1299,302,20240703,6,Interface confusing,Email
+1300,56,20241030,10,Too many ads,Email
+1301,309,20241022,3,Would recommend,Email
+1302,158,20240617,4,Fast & smooth,Email
+1303,268,20240604,1,,Email
+1304,5,20241105,2,App crashes,Email
+1305,40,20240820,3,,App
+1306,253,20240731,8,Love the app,App
+1307,60,20240119,4,Interface confusing,Email
+1308,196,20240118,5,,Web
+1309,47,20241014,4,App crashes,Web
+1310,352,20241004,10,Would recommend,Email
+1311,391,20240401,7,Too many ads,Web
+1312,76,20241116,10,Fast & smooth,Web
+1313,380,20240604,5,Service is slow,Email
+1314,94,20240526,2,Too many ads,Email
+1315,64,20240116,8,,Web
+1316,72,20240419,5,App crashes,App
+1317,347,20240916,7,Great experience,Web
+1318,7,20241023,0,Fast & smooth,Phone
+1319,395,20241210,5,Too many ads,App
+1320,259,20240923,0,Would recommend,App
+1321,353,20240119,7,,Web
+1322,39,20240104,7,Interface confusing,Phone
+1323,388,20241227,5,Great experience,Phone
+1324,93,20241114,4,,App
+1325,69,20240910,0,Service is slow,Web
+1326,226,20240904,2,Too many ads,Web
+1327,292,20241208,1,Interface confusing,Phone
+1328,283,20241209,1,Too many ads,Phone
+1329,1,20241121,2,,Email
+1330,223,20241224,0,Fast & smooth,Web
+1331,105,20240422,2,Interface confusing,App
+1332,177,20241103,2,Interface confusing,Web
+1333,233,20240101,3,,Email
+1334,58,20240531,9,App crashes,Phone
+1335,298,20241102,2,Interface confusing,Web
+1336,399,20241202,5,Service is slow,Email
+1337,372,20241124,6,Love the app,Web
+1338,219,20240821,1,Great experience,Email
+1339,97,20240323,1,App crashes,Email
+1340,383,20240513,5,,Web
+1341,390,20241222,8,,App
+1342,325,20241213,2,App crashes,Phone
+1343,166,20241004,2,,Phone
+1344,52,20240303,6,Interface confusing,Phone
+1345,222,20240412,1,Would recommend,App
+1346,28,20240311,2,Great experience,Web
+1347,182,20240106,2,Love the app,Web
+1348,151,20240526,0,Love the app,Email
+1349,337,20241115,6,Great experience,App
+1350,295,20241225,3,,Web
+1351,254,20241214,0,Would recommend,Email
+1352,263,20240906,6,Too many ads,Email
+1353,58,20240729,3,Fast & smooth,Email
+1354,211,20240307,3,Great experience,Web
+1355,32,20241103,10,Would recommend,Email
+1356,295,20240613,3,Service is slow,Web
+1357,100,20240328,8,App crashes,Web
+1358,67,20240222,0,Love the app,App
+1359,340,20240322,4,Service is slow,Web
+1360,202,20240229,0,Service is slow,Email
+1361,48,20241024,3,,App
+1362,259,20240516,3,Great experience,Web
+1363,210,20241031,6,Would recommend,Email
+1364,218,20240417,0,Service is slow,Email
+1365,2,20240422,10,Would recommend,Email
+1366,338,20241202,5,Fast & smooth,Phone
+1367,397,20240918,9,Great experience,App
+1368,66,20241022,5,,App
+1369,160,20240619,5,,Email
+1370,360,20240824,5,,Web
+1371,398,20241106,7,Great experience,Phone
+1372,288,20240825,2,Great experience,App
+1373,149,20240731,4,App crashes,Phone
+1374,355,20240907,10,Interface confusing,Email
+1375,219,20240613,4,Too many ads,Email
+1376,180,20240724,1,,Phone
+1377,166,20240510,1,Fast & smooth,Phone
+1378,61,20240124,9,,Email
+1379,179,20240829,1,,Web
+1380,252,20241216,3,Interface confusing,Email
+1381,337,20240811,3,Great experience,Email
+1382,282,20240811,8,Interface confusing,App
+1383,142,20241021,8,Love the app,Web
+1384,65,20240420,10,App crashes,Web
+1385,3,20240811,1,Would recommend,Phone
+1386,60,20240626,2,App crashes,Web
+1387,385,20241231,3,App crashes,App
+1388,389,20240908,9,Interface confusing,App
+1389,271,20240818,4,Interface confusing,Web
+1390,60,20240611,0,,Phone
+1391,167,20240422,9,Would recommend,Email
+1392,163,20240530,1,Fast & smooth,Web
+1393,139,20241013,9,Too many ads,Email
+1394,231,20241125,0,App crashes,Web
+1395,54,20240805,7,Would recommend,Phone
+1396,17,20240221,1,Great experience,App
+1397,110,20241018,9,Too many ads,App
+1398,14,20240622,0,Interface confusing,Email
+1399,297,20240706,1,,Web
+1400,193,20240422,1,Interface confusing,Email
+1401,117,20240916,0,Would recommend,App
+1402,263,20241215,1,Would recommend,Email
+1403,83,20241203,0,Service is slow,Phone
+1404,83,20240527,5,Love the app,Email
+1405,324,20240705,2,App crashes,Email
+1406,52,20240115,0,,App
+1407,17,20240912,0,App crashes,App
+1408,256,20240511,3,Great experience,Email
+1409,81,20240628,3,Too many ads,Email
+1410,275,20240627,4,Would recommend,Phone
+1411,75,20240321,8,Love the app,App
+1412,177,20240131,6,App crashes,Email
+1413,169,20240311,6,Service is slow,Web
+1414,240,20241029,1,Interface confusing,Email
+1415,387,20240927,4,App crashes,Phone
+1416,137,20241020,6,Interface confusing,Phone
+1417,89,20240825,7,App crashes,Web
+1418,109,20240317,0,,Email
+1419,370,20240113,6,Great experience,App
+1420,330,20240430,2,Great experience,Email
+1421,128,20240317,7,,Web
+1422,25,20241006,4,Love the app,Email
+1423,55,20240501,3,App crashes,App
+1424,300,20241230,6,,Email
+1425,50,20240810,4,Love the app,Email
+1426,212,20240425,9,Fast & smooth,Web
+1427,73,20241003,6,Fast & smooth,Phone
+1428,293,20241206,5,Would recommend,Web
+1429,133,20240101,0,App crashes,Email
+1430,48,20241103,4,,App
+1431,129,20240314,2,Would recommend,App
+1432,5,20240929,2,,Phone
+1433,297,20241121,8,Would recommend,Web
+1434,54,20240207,6,,Email
+1435,237,20240428,0,,Phone
+1436,389,20241121,7,Would recommend,App
+1437,197,20240225,3,Would recommend,Phone
+1438,354,20241108,1,,Web
+1439,253,20240211,4,Would recommend,Web
+1440,136,20240501,6,Interface confusing,Email
+1441,226,20240628,8,Interface confusing,App
+1442,304,20240513,8,Too many ads,App
+1443,54,20241111,0,Fast & smooth,App
+1444,331,20241027,4,Service is slow,Phone
+1445,358,20241019,7,Too many ads,Phone
+1446,219,20240706,2,Interface confusing,Email
+1447,366,20240701,1,Great experience,Phone
+1448,231,20240212,9,,App
+1449,67,20241114,2,Too many ads,App
+1450,89,20241111,4,,Phone
+1451,322,20240126,5,Fast & smooth,App
+1452,189,20240510,3,Fast & smooth,App
+1453,59,20241220,9,Interface confusing,App
+1454,108,20240902,2,App crashes,Email
+1455,193,20240103,4,Interface confusing,App
+1456,273,20241128,8,Fast & smooth,Web
+1457,291,20240908,0,Great experience,Phone
+1458,267,20241013,1,Great experience,Email
+1459,101,20240909,1,,Email
+1460,10,20240919,3,Love the app,Email
+1461,290,20240617,3,Would recommend,Phone
+1462,102,20240507,0,Interface confusing,Email
+1463,305,20240212,0,Interface confusing,App
+1464,82,20240927,2,Love the app,Phone
+1465,182,20240904,5,App crashes,Email
+1466,23,20240714,8,Would recommend,Email
+1467,317,20240118,9,Service is slow,App
+1468,19,20240130,3,Great experience,Email
+1469,101,20240918,2,Interface confusing,Web
